@@ -9,8 +9,6 @@
 
 // POSIX Standard: 7.1-2 General Terminal Interface "termios.h"
 
-struct termios
-
 tcgetattr()
 cfmakeraw()
 cfsetispeed()

@@ -30,6 +30,7 @@
 #include <windows.h>
 
 //#include <features.h>  //Is this needed?
+#define __THROW
 
 /*#if defined __USE_UNIX99 || defined __USE_XOPEN2K8  //Is this needed?
 // We need `pid_t'.

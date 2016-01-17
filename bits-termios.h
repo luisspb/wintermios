@@ -18,8 +18,8 @@
    License along with the GNU C Library; if not, see
    <http://www.gnu.org/licenses/>. */
 
-#ifndef _TERMIOS_H
-# error "Never include <bits/termios.h> directly; use <termios.h> instead."
+#ifndef TERMIOS_H_
+# error "Never include 'bits-termios.h' directly; use 'termios.h' instead."
 #endif
 
 typedef unsigned char cc_t;
